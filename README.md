@@ -30,7 +30,7 @@
 
 <div align="center">
   
-  ![gitHub stats](https://github-readme-stats.vercel.app/api?username=wingyu0897&show_icons=true&theme=ambient_gradient)
+  [![gitHub stats](https://github-readme-stats.vercel.app/api?username=wingyu0897&show_icons=true&theme=ambient_gradient)](https://github.com/wingyu0897)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingyu0897&layout=donut)](https://github.com/wingyu0897)
 
